@@ -1,0 +1,164 @@
+Food, Beverages & Tobacco > Dairy & Eggs > Milk
+Food, Beverages & Tobacco > Dairy & Eggs > Buttermilk
+Food, Beverages & Tobacco > Dairy & Eggs > Non-Dairy Milk
+Food, Beverages & Tobacco > Dairy & Eggs > Cheese
+Food, Beverages & Tobacco > Dairy & Eggs > Cream
+Food, Beverages & Tobacco > Dairy & Eggs > Butter & Margarine
+Food, Beverages & Tobacco > Dairy & Eggs > Yogurt
+Food, Beverages & Tobacco > Dairy & Eggs > Eggs
+Food, Beverages & Tobacco > Meat & Seafood > Fresh Meat
+Food, Beverages & Tobacco > Meat & Seafood > Poultry
+Food, Beverages & Tobacco > Meat & Seafood > Fish & Seafood
+Food, Beverages & Tobacco > Meat & Seafood > Deli
+Food, Beverages & Tobacco > Bakery > Bread
+Food, Beverages & Tobacco > Bakery > Cookies
+Food, Beverages & Tobacco > Bakery > Cupcakes
+Food, Beverages & Tobacco > Bakery > Muffins
+Food, Beverages & Tobacco > Bakery > Pastries
+Food, Beverages & Tobacco > Bakery > Tortillas & Wraps
+Food, Beverages & Tobacco > Cooking & Baking Ingredients > Baking Mixes
+Food, Beverages & Tobacco > Cooking & Baking Ingredients > Baking Decorations
+Food, Beverages & Tobacco > Cooking & Baking Ingredients > Cooking Oils
+Food, Beverages & Tobacco > Produce > Fruits
+Food, Beverages & Tobacco > Produce > Vegetables
+Food, Beverages & Tobacco > Produce > Fresh Herbs
+Food, Beverages & Tobacco > Frozen Foods > Frozen Meals
+Food, Beverages & Tobacco > Frozen Foods > Ice Cream & Novelties
+Food, Beverages & Tobacco > Frozen Foods > Frozen Vegetables & Fruits
+Food, Beverages & Tobacco > Canned & Jarred Goods > Soups
+Food, Beverages & Tobacco > Canned & Jarred Goods > Vegetables
+Food, Beverages & Tobacco > Canned & Jarred Goods > Fruits
+Food, Beverages & Tobacco > Canned & Jarred Goods > Pasta Sauces
+Food, Beverages & Tobacco > Pasta, Rice & Grains
+Food, Beverages & Tobacco > Condiments & Sauces
+Food, Beverages & Tobacco > Condiments & Sauces > Curry Sauce
+Food, Beverages & Tobacco > Condiments & Sauces > Honey
+Food, Beverages & Tobacco > Condiments & Sauces > Hot Sauce
+Food, Beverages & Tobacco > Condiments & Sauces > Ketchup
+Food, Beverages & Tobacco > Condiments & Sauces > Mayonnaise
+Food, Beverages & Tobacco > Condiments & Sauces > Olives
+Food, Beverages & Tobacco > Condiments & Sauces > Capers
+Food, Beverages & Tobacco > Condiments & Sauces > Marinades & Grilling Sauces
+Food, Beverages & Tobacco > Condiments & Sauces > Relish & Chutney
+Food, Beverages & Tobacco > Condiments & Sauces > Salad Dressing
+Food, Beverages & Tobacco > Condiments & Sauces > Syrup
+Food, Beverages & Tobacco > Breakfast Foods > Cereal
+Food, Beverages & Tobacco > Breakfast Foods > Pancake Mix & Syrup
+Food, Beverages & Tobacco > Snacks > Chips
+Food, Beverages & Tobacco > Snacks > Crackers
+Food, Beverages & Tobacco > Snacks > Nuts & Seeds
+Food, Beverages & Tobacco > Snacks > Cookies
+Food, Beverages & Tobacco > Snacks > Granola Bars
+Food, Beverages & Tobacco > Baby Food
+Food, Beverages & Tobacco > Beverages > Water
+Food, Beverages & Tobacco > Beverages > Water > Spring Water
+Food, Beverages & Tobacco > Beverages > Water > Carbonated Water
+Food, Beverages & Tobacco > Beverages > Juice
+Food, Beverages & Tobacco > Beverages > Milk & Plant-Based Alternatives
+Food, Beverages & Tobacco > Beverages > Sodas & Soft Drinks
+Food, Beverages & Tobacco > Beverages > Coffee, Tea, & Infusions
+Food, Beverages & Tobacco > Beverages > Sports & Energy Drinks
+Food, Beverages & Tobacco > Beverages > Powdered Beverage Mixes
+Food, Beverages & Tobacco > Beverages > Alcoholic Beverages > Beer
+Food, Beverages & Tobacco > Beverages > Alcoholic Beverages > Wine
+Food, Beverages & Tobacco > Beverages > Alcoholic Beverages > Spirits
+Food, Beverages & Tobacco > Tobacco > Cigarettes
+Food, Beverages & Tobacco > Tobacco > Cigars
+Food, Beverages & Tobacco > Tobacco > Smokeless Tobacco
+Food, Beverages & Tobacco > Tobacco > Vapes & Accessories
+Food, Beverages & Tobacco > Condiments & Sauces
+Food, Beverages & Tobacco > Dips & Spreads > Jams & Jellies
+Food, Beverages & Tobacco > Dips & Spreads > Nut Butters
+Food, Beverages & Tobacco > Dips & Spreads > Salsa
+Food, Beverages & Tobacco > Frozen Desserts & Novelties > Ice Cream
+Food, Beverages & Tobacco > Frozen Desserts & Novelties > Frozen Yogurt
+Food, Beverages & Tobacco > Fruits & Vegetables > Canned & Jarred Vegetables
+Food, Beverages & Tobacco > Fruits & Vegetables > Dried Fruits
+Food, Beverages & Tobacco > Fruits & Vegetables > Pickled Fruits & Vegetables
+Food, Beverages & Tobacco > Fruits & Vegetables > Fresh & Frozen Vegetables > Tomatoes
+Food, Beverages & Tobacco > Grains, Rice & Cereal > Cereal & Granola
+Food, Beverages & Tobacco > Nuts & Seeds
+Food, Beverages & Tobacco > Pasta & Noodles
+Food, Beverages & Tobacco > Seasonings & Spices > Herbs & Spices
+Food, Beverages & Tobacco > Seasonings & Spices > Pepper
+Food, Beverages & Tobacco > Snack Foods > Cereal & Granola Bars
+Food, Beverages & Tobacco > Snack Foods > Cereal & Granola Bars > Cereal Bars
+Food, Beverages & Tobacco > Snack Foods > Cheese Puffs
+Food, Beverages & Tobacco > Snack Foods > Popcorn
+Food, Beverages & Tobacco > Candy & Chocolate
+Food, Beverages & Tobacco > Soups & Broths
+Health & Personal Care > Over-the-Counter Medication
+Health & Personal Care > First Aid
+Health & Personal Care > Vitamins & Supplements
+Health & Personal Care > Skin Care
+Health & Personal Care > Hair Care
+Health & Personal Care > Oral Care
+Health & Personal Care > Feminine Care
+Health & Personal Care > Deodorants
+Health & Personal Care > Hygiene Products
+Health & Personal Care > Hygiene Products > Liquid Hand Soap
+Health & Personal Care > Hygiene Products > Bar Soap
+Health & Personal Care > Hygiene Products > Body Wash
+Health & Personal Care > Hygiene Products > Bath Additives
+Health & Personal Care > Eye & Ear Care
+Health & Personal Care > First Aid
+Health & Personal Care > Fitness & Nutrition > Nutrition Drinks & Shakes
+Health & Personal Care > Fitness & Nutrition > Vitamins & Supplements
+Health & Personal Care > Medicine & Drugs
+Health & Personal Care > Cosmetics > Bath & Body > Liquid Hand Soap
+Health & Personal Care > Cosmetics > Skin Care > Body Powder
+Health & Personal Care > Cosmetics > Skin Care > Facial Cleansers
+Health & Personal Care > Cosmetics > Skin Care > Lotion & Moisturizer
+Health & Personal Care > Deodorant & Anti-Perspirant
+Health & Personal Care > Hair Care > Shampoo & Conditioner
+Health & Personal Care > Hair Care > Shaving Cream
+Health & Personal Care > Oral Care > Dental Floss
+Health & Personal Care > Oral Care > Toothpaste
+Household Supplies > Cleaning Supplies
+Household Supplies > Cleaning Supplies > All-Purpose Cleaners
+Household Supplies > Cleaning Supplies > Floor Cleaners
+Household Supplies > Cleaning Supplies > Disinfectants
+Household Supplies > Cleaning Supplies > Sponges & Scouring Pads
+Household Supplies > Laundry Detergents & Softeners
+Household Supplies > Dish Detergent & Soap
+Household Supplies > Paper Products > Toilet Paper
+Household Supplies > Paper Products > Paper Towels
+Household Supplies > Paper Products > Facial Tissues
+Household Supplies > Trash Bags
+Household Supplies > Dishwashing Products
+Household Supplies > Air Fresheners
+Household Supplies > Fragrance Oil
+Household Supplies > Bathroom Accessories
+Household Supplies > Laundry Supplies > Fabric Stain Removers
+Household Supplies > Laundry Supplies > Bleach
+Baby & Childcare > Baby Diapers
+Baby & Childcare > Baby Wipes
+Baby & Childcare > Baby Formula
+Baby & Childcare > Baby Food
+Baby & Childcare > Baby Toiletries
+Baby & Childcare > Bottles & Feeding Accessories
+Pets > Dog Food
+Pets > Cat Food
+Pets > Treats
+Pets > Litter & Training Pads
+Pets > Toys & Accessories
+Tools & Home Improvement > Hand Tools
+Tools & Home Improvement > Power Tools
+Tools & Home Improvement > Hardware
+Tools & Home Improvement > Light Bulbs
+Tools & Home Improvement > Batteries
+Tools & Home Improvement > Electrical Supplies
+Apparel & Accessories > Clothing > Underwear & Socks
+Arts & Entertainment > Hobbies & Creative Arts > Arts & Crafts
+Hardware > Hardware Accessories > Hardware Fasteners
+Home & Garden > Plants
+Media > Music & Sound Recordings > Music CDs
+Sporting Goods > Outdoor Recreation > Hydration Systems
+Home & Garden > Kitchen & Dining > Cookware & Bakeware > Bakeware
+Home & Garden > Kitchen & Dining > Food & Beverage Carriers
+Home & Garden > Kitchen & Dining > Food Storage > Cookie Jars
+Home & Garden > Kitchen & Dining > Food Storage > Honey Jars
+Home & Garden > Kitchen & Dining > Kitchen Tools & Utensils > Oil & Vinegar Dispensers
+Home & Garden > Household Supplies > Waste Containment > Trash Cans & Wastebaskets
+Home & Garden > Lighting > Lamps
+Office Supplies > Pen Ink & Refills

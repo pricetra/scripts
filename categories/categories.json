@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Grocery",
+    "subcategories": [
+      {
+        "name": "Dairy & Eggs",
+        "subcategories": [
+          "Milk",
+          "Cheese",
+          "Butter & Margarine",
+          "Yogurt",
+          "Eggs"
+        ]
+      },
+      {
+        "name": "Meat & Seafood",
+        "subcategories": [
+          "Fresh Meat",
+          "Poultry",
+          "Fish & Seafood",
+          "Deli"
+        ]
+      },
+      {
+        "name": "Bakery",
+        "subcategories": [
+          "Bread",
+          "Pastries",
+          "Tortillas & Wraps"
+        ]
+      },
+      {
+        "name": "Produce",
+        "subcategories": [
+          "Fruits",
+          "Vegetables",
+          "Fresh Herbs"
+        ]
+      },
+      {
+        "name": "Frozen Foods",
+        "subcategories": [
+          "Frozen Meals",
+          "Ice Cream & Novelties",
+          "Frozen Vegetables & Fruits"
+        ]
+      },
+      {
+        "name": "Canned & Jarred Goods",
+        "subcategories": [
+          "Soups",
+          "Vegetables",
+          "Fruits",
+          "Pasta Sauces"
+        ]
+      },
+      {
+        "name": "Pasta, Rice & Grains",
+        "subcategories": []
+      },
+      {
+        "name": "Condiments & Sauces",
+        "subcategories": []
+      },
+      {
+        "name": "Breakfast Foods",
+        "subcategories": [
+          "Cereal",
+          "Pancake Mix & Syrup"
+        ]
+      },
+      {
+        "name": "Snacks",
+        "subcategories": [
+          "Chips",
+          "Crackers",
+          "Nuts & Seeds",
+          "Cookies",
+          "Granola Bars"
+        ]
+      },
+      {
+        "name": "Baby Food",
+        "subcategories": []
+      },
+      {
+        "name": "Beverages",
+        "subcategories": [
+          "Water",
+          "Juice",
+          "Milk & Plant-Based Alternatives",
+          "Sodas & Soft Drinks",
+          "Tea & Coffee",
+          "Sports & Energy Drinks",
+          {
+            "Alcoholic Beverages": [
+              "Beer",
+              "Wine",
+              "Spirits"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Tobacco",
+        "subcategories": [
+          "Cigarettes",
+          "Cigars",
+          "Smokeless Tobacco",
+          "Vapes & Accessories"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Health & Personal Care",
+    "subcategories": [
+      "Over-the-Counter Medication",
+      "First Aid",
+      "Vitamins & Supplements",
+      "Skin Care",
+      "Hair Care",
+      "Oral Care",
+      "Feminine Care",
+      "Deodorants",
+      "Hygiene Products",
+      "Eye & Ear Care"
+    ]
+  },
+  {
+    "name": "Household Supplies",
+    "subcategories": [
+      "Cleaning Supplies",
+      "Laundry Detergents & Softeners",
+      {
+        "Paper Products": [
+          "Toilet Paper",
+          "Paper Towels"
+        ]
+      },
+      "Trash Bags",
+      "Dishwashing Products",
+      "Air Fresheners"
+    ]
+  },
+  {
+    "name": "Baby & Childcare",
+    "subcategories": [
+      "Diapers",
+      "Baby Wipes",
+      "Baby Formula",
+      "Baby Food",
+      "Baby Toiletries",
+      "Bottles & Feeding Accessories"
+    ]
+  },
+  {
+    "name": "Pets",
+    "subcategories": [
+      "Dog Food",
+      "Cat Food",
+      "Treats",
+      "Litter & Training Pads",
+      "Toys & Accessories"
+    ]
+  },
+  {
+    "name": "Tools & Home Improvement",
+    "subcategories": [
+      "Hand Tools",
+      "Power Tools",
+      "Hardware",
+      "Light Bulbs",
+      "Batteries",
+      "Electrical Supplies"
+    ]
+  }
+]

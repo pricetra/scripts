@@ -1,0 +1,14 @@
+{
+  "name": "categories",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.ts",
+  "scripts": {
+    "start": "npx tsx script.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.14.0"
+  }
+}
