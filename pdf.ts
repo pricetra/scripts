@@ -20,8 +20,7 @@ export async function parsePluPdf(pdfFilename: string): Promise<Map<string, PluD
     const line = rawLine.trim();
     if (!line) continue;
 
-    // Detect parent line (no leading •)
-    if (!line.startsWith("•")) {
+    if (!line.startsWith("•") && !/\(\d{4,}\)/.test(line)) {
       currentParent = line;
       if (currentParent && !result.has(currentParent)) {
         result.set(currentParent, []);
@@ -71,6 +70,8 @@ if (require.main === module) {
   parsePluPdf("2011-plu-listings.pdf").then((data) => {
     data.forEach((value, key) => {
       if (value.length === 0) data.delete(key);
+      if (key.length === 1) data.delete(key);
+      if (key.includes(',') || key.includes('(') || key.includes(')')) data.delete(key);
     });
     const jsonDump = JSON.stringify(Object.fromEntries(data), null, 2);
     fs.writeFileSync("plu.json", jsonDump);
