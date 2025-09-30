@@ -1,0 +1,2530 @@
+{
+  "Alfalfa Sprouts": [
+    {
+      "plu": "4514",
+      "name": "Alfalfa Sprouts"
+    }
+  ],
+  "Apple": [
+    {
+      "plu": "4098",
+      "name": "Akane, small"
+    },
+    {
+      "plu": "4099",
+      "name": ", large"
+    },
+    {
+      "plu": "3000",
+      "name": "Alkmene"
+    },
+    {
+      "plu": "3001",
+      "name": "Aurora / Southern Rose, small"
+    },
+    {
+      "plu": "3290",
+      "name": ", large"
+    },
+    {
+      "plu": "3075",
+      "name": "Baldwin"
+    },
+    {
+      "plu": "3339",
+      "name": "Belchard / Chantecler"
+    },
+    {
+      "plu": "3340",
+      "name": "Bertanne / Golden Russet"
+    },
+    {
+      "plu": "3291",
+      "name": "Boskoop / Belle de Boskoop, small"
+    },
+    {
+      "plu": "3292",
+      "name": ", large"
+    },
+    {
+      "plu": "4101",
+      "name": "Braeburn, small"
+    },
+    {
+      "plu": "4103",
+      "name": ", large"
+    },
+    {
+      "plu": "3065",
+      "name": "Cameo, small"
+    },
+    {
+      "plu": "3066",
+      "name": ", large"
+    },
+    {
+      "plu": "3002",
+      "name": "Cantared"
+    },
+    {
+      "plu": "3341",
+      "name": "Charles Ross"
+    },
+    {
+      "plu": "4104",
+      "name": "Cortland, small"
+    },
+    {
+      "plu": "4106",
+      "name": ", large"
+    },
+    {
+      "plu": "4105",
+      "name": "Cox Orange Pippin"
+    },
+    {
+      "plu": "4107",
+      "name": "Crab"
+    },
+    {
+      "plu": "4128",
+      "name": "Cripps Pink / Pink Lady ®, small"
+    },
+    {
+      "plu": "4130",
+      "name": ", large"
+    },
+    {
+      "plu": "3010",
+      "name": "Cripps Red / Sundowner ®, small"
+    },
+    {
+      "plu": "3301",
+      "name": ", large"
+    }
+  ],
+  "Apricot": [
+    {
+      "plu": "3422",
+      "name": "InterSpecific"
+    },
+    {
+      "plu": "4218",
+      "name": "Regular, small"
+    },
+    {
+      "plu": "3302",
+      "name": ", large"
+    },
+    {
+      "plu": "4861",
+      "name": "dried"
+    },
+    {
+      "plu": "4219",
+      "name": "retailer assigned"
+    }
+  ],
+  "Arracach": [
+    {
+      "plu": "3390",
+      "name": "Arracach"
+    }
+  ],
+  "Artichoke": [
+    {
+      "plu": "4516",
+      "name": "Artichoke, small"
+    },
+    {
+      "plu": "4084",
+      "name": ", large"
+    },
+    {
+      "plu": "4762",
+      "name": ", extra large"
+    },
+    {
+      "plu": "4519",
+      "name": "Baby / Cocktail"
+    },
+    {
+      "plu": "4517",
+      "name": "Purple, small"
+    },
+    {
+      "plu": "4518",
+      "name": ", large"
+    },
+    {
+      "plu": "3391",
+      "name": "Rouge Salambo, red"
+    },
+    {
+      "plu": "4791",
+      "name": "Sunchokes / Jerusalem Artichokes"
+    },
+    {
+      "plu": "4520",
+      "name": "retailer assigned"
+    }
+  ],
+  "Asparagus": [
+    {
+      "plu": "4080",
+      "name": "Green, small"
+    },
+    {
+      "plu": "4521",
+      "name": ", large"
+    }
+  ],
+  "Atemoya": [
+    {
+      "plu": "4220",
+      "name": "Atemoya"
+    }
+  ],
+  "Avocado": [
+    {
+      "plu": "4226",
+      "name": "Cocktail / Seedless"
+    }
+  ],
+  "Banana": [
+    {
+      "plu": "4232",
+      "name": "Banana Leaves"
+    },
+    {
+      "plu": "4229",
+      "name": "Burro"
+    },
+    {
+      "plu": "4230",
+      "name": "Dominique"
+    },
+    {
+      "plu": "4231",
+      "name": "Green"
+    },
+    {
+      "plu": "3287",
+      "name": "Hawaiian Plantain"
+    },
+    {
+      "plu": "4233",
+      "name": "Manzano / Apple Banana"
+    },
+    {
+      "plu": "4234",
+      "name": "Nino"
+    },
+    {
+      "plu": "4235",
+      "name": "Plantain / Macho"
+    },
+    {
+      "plu": "4236",
+      "name": "Red"
+    },
+    {
+      "plu": "4011",
+      "name": "Yellow [including Cavendish]"
+    },
+    {
+      "plu": "4186",
+      "name": ", small"
+    }
+  ],
+  "Bean": [
+    {
+      "plu": "4536",
+      "name": "Bean Sprouts / Mung Bean Sprouts"
+    },
+    {
+      "plu": "4527",
+      "name": "Chinese Long / Snake"
+    },
+    {
+      "plu": "4528",
+      "name": "Fava / Broad"
+    },
+    {
+      "plu": "3049",
+      "name": "Fine"
+    },
+    {
+      "plu": "4066",
+      "name": "Green / French"
+    },
+    {
+      "plu": "3048",
+      "name": "Helda / Flat"
+    },
+    {
+      "plu": "4529",
+      "name": "Lima"
+    },
+    {
+      "plu": "4530",
+      "name": "Pole / Runner / Stick"
+    },
+    {
+      "plu": "4531",
+      "name": "Purple Hull"
+    },
+    {
+      "plu": "4532",
+      "name": "Shell"
+    },
+    {
+      "plu": "4533",
+      "name": "Wax / Yellow"
+    },
+    {
+      "plu": "4534",
+      "name": "Winged"
+    },
+    {
+      "plu": "4535",
+      "name": "retailer assigned"
+    }
+  ],
+  "Beet": [
+    {
+      "plu": "4537",
+      "name": "Baby Golden"
+    },
+    {
+      "plu": "4538",
+      "name": "Baby Red"
+    },
+    {
+      "plu": "4542",
+      "name": "Beet Greens"
+    },
+    {
+      "plu": "4539",
+      "name": "Bunch"
+    },
+    {
+      "plu": "3273",
+      "name": "Golden"
+    },
+    {
+      "plu": "4540",
+      "name": "Loose"
+    },
+    {
+      "plu": "4541",
+      "name": "retailer assigned"
+    }
+  ],
+  "Berries": [
+    {
+      "plu": "4244",
+      "name": "Black Raspberries"
+    },
+    {
+      "plu": "4239",
+      "name": "Blackberries"
+    },
+    {
+      "plu": "4240",
+      "name": "Blueberries"
+    },
+    {
+      "plu": "4241",
+      "name": "Boysenberries"
+    },
+    {
+      "plu": "4242",
+      "name": "Cranberries"
+    },
+    {
+      "plu": "4245",
+      "name": "Golden Raspberries"
+    },
+    {
+      "plu": "4243",
+      "name": "Gooseberries"
+    },
+    {
+      "plu": "3039",
+      "name": "Gooseberry / Ground Cherry / Physalis / Cape"
+    },
+    {
+      "plu": "3304",
+      "name": "Loganberries"
+    },
+    {
+      "plu": "4054",
+      "name": "Raspberries, red"
+    },
+    {
+      "plu": "3081",
+      "name": "Saskatoons"
+    },
+    {
+      "plu": "4323",
+      "name": "o Bulk"
+    }
+  ],
+  "Breadfruit": [
+    {
+      "plu": "4254",
+      "name": "Breadfruit"
+    }
+  ],
+  "Broccoli": [
+    {
+      "plu": "3277",
+      "name": "Baby"
+    },
+    {
+      "plu": "4060",
+      "name": "Broccoli"
+    },
+    {
+      "plu": "4547",
+      "name": "Broccoli Rabe / Italian Rapini / Chinese Broccoli / Gai Lan"
+    },
+    {
+      "plu": "3082",
+      "name": "Crowns"
+    },
+    {
+      "plu": "4548",
+      "name": "Florettes"
+    },
+    {
+      "plu": "3320",
+      "name": "Romanesco / Broccoflower / Caulibroc"
+    },
+    {
+      "plu": "4549",
+      "name": "retailer assigned"
+    }
+  ],
+  "Brussels Sprout": [
+    {
+      "plu": "4550",
+      "name": "Brussels Sprout"
+    },
+    {
+      "plu": "3083",
+      "name": "Stalk"
+    },
+    {
+      "plu": "4551",
+      "name": "retailer assigned"
+    }
+  ],
+  "Cabbage": [
+    {
+      "plu": "4552",
+      "name": "Chinese / Napa / Wong Bok"
+    },
+    {
+      "plu": "3050",
+      "name": "Dutch White / Winter White"
+    },
+    {
+      "plu": "4069",
+      "name": "Green"
+    },
+    {
+      "plu": "4554",
+      "name": "Red"
+    },
+    {
+      "plu": "4555",
+      "name": "Savoy, green"
+    },
+    {
+      "plu": "3396",
+      "name": ", red"
+    },
+    {
+      "plu": "3051",
+      "name": "Spring Cabbage / Spring Greens"
+    },
+    {
+      "plu": "3397",
+      "name": "Summer, pointed type"
+    },
+    {
+      "plu": "3166",
+      "name": "Tuscan"
+    }
+  ],
+  "Cactus": [
+    {
+      "plu": "4558",
+      "name": "Cactus Leaves / Nopales / Cactus Pads"
+    },
+    {
+      "plu": "4255",
+      "name": "Cactus Pear / Prickly Pear"
+    }
+  ],
+  "Carambola / Starfruit": [
+    {
+      "plu": "4256",
+      "name": "Carambola / Starfruit"
+    }
+  ],
+  "Cardoon / Cardoni": [
+    {
+      "plu": "4559",
+      "name": "Cardoon / Cardoni"
+    }
+  ],
+  "Carrot": [
+    {
+      "plu": "4560",
+      "name": "Baby"
+    },
+    {
+      "plu": "4094",
+      "name": "Bunch"
+    },
+    {
+      "plu": "4563",
+      "name": "Carrot Sticks"
+    },
+    {
+      "plu": "4561",
+      "name": "French"
+    },
+    {
+      "plu": "4562",
+      "name": "Loose"
+    },
+    {
+      "plu": "3424",
+      "name": "Purple / Red / Beta Sweet"
+    }
+  ],
+  "Cauliflower": [
+    {
+      "plu": "4573",
+      "name": "Baby"
+    },
+    {
+      "plu": "4079",
+      "name": "Cauliflower, small"
+    },
+    {
+      "plu": "4572",
+      "name": ", large"
+    },
+    {
+      "plu": "4566",
+      "name": "Florettes"
+    },
+    {
+      "plu": "4567",
+      "name": "Green"
+    },
+    {
+      "plu": "4568",
+      "name": "Purple"
+    }
+  ],
+  "Chard": [
+    {
+      "plu": "4586",
+      "name": "Chard / Swiss Chard / Silverbeet, green"
+    },
+    {
+      "plu": "4587",
+      "name": ", red"
+    },
+    {
+      "plu": "4588",
+      "name": "retailer assigned"
+    }
+  ],
+  "Cherimoya": [
+    {
+      "plu": "4257",
+      "name": "Cherimoya"
+    }
+  ],
+  "Cherry": [
+    {
+      "plu": "4045",
+      "name": "Regular / Red / Black"
+    }
+  ],
+  "Choy": [
+    {
+      "plu": "3163",
+      "name": "Bok Choy / Pak Choy / Shanghai"
+    },
+    {
+      "plu": "4545",
+      "name": "Bok Choy / Pak Choy"
+    },
+    {
+      "plu": "4544",
+      "name": ", small or baby"
+    },
+    {
+      "plu": "3322",
+      "name": "Choy Sum / Pak Choy Sum"
+    },
+    {
+      "plu": "3323",
+      "name": ", baby"
+    },
+    {
+      "plu": "3160",
+      "name": "Gai Lan / Chinese Broccoli"
+    },
+    {
+      "plu": "4607",
+      "name": "Gai or Gui Choy / Chinese or Indian Mustard"
+    },
+    {
+      "plu": "3161",
+      "name": ", baby"
+    },
+    {
+      "plu": "3162",
+      "name": "On Choy / Water Spinach"
+    },
+    {
+      "plu": "3164",
+      "name": "Yu Choy"
+    }
+  ],
+  "Coconut": [
+    {
+      "plu": "4261",
+      "name": "Husked"
+    },
+    {
+      "plu": "4260",
+      "name": "In Husk / Waternut"
+    },
+    {
+      "plu": "4262",
+      "name": "retailer assigned"
+    }
+  ],
+  "Corn": [
+    {
+      "plu": "3086",
+      "name": "Indian, decorative, mini"
+    },
+    {
+      "plu": "3085",
+      "name": ", large"
+    },
+    {
+      "plu": "3087",
+      "name": ", strawberry"
+    },
+    {
+      "plu": "4589",
+      "name": "Sweet Corn, baby"
+    },
+    {
+      "plu": "4590",
+      "name": ", bi‐color"
+    },
+    {
+      "plu": "4077",
+      "name": ", white"
+    },
+    {
+      "plu": "4078",
+      "name": ", yellow"
+    },
+    {
+      "plu": "4591",
+      "name": "retailer assigned"
+    }
+  ],
+  "Cucumber": [
+    {
+      "plu": "4592",
+      "name": "Armenian"
+    },
+    {
+      "plu": "4593",
+      "name": "English / Hot House / Long Seedless / Telegraph / Continental"
+    },
+    {
+      "plu": "4062",
+      "name": "Green / Ridge / Short"
+    },
+    {
+      "plu": "4594",
+      "name": "Japanese / White"
+    },
+    {
+      "plu": "4595",
+      "name": "Lemon"
+    },
+    {
+      "plu": "4596",
+      "name": "Pickling / Gherkin"
+    },
+    {
+      "plu": "4597",
+      "name": "retailer assigned"
+    }
+  ],
+  "Currant": [
+    {
+      "plu": "3305",
+      "name": "Black"
+    },
+    {
+      "plu": "3088",
+      "name": "Red"
+    }
+  ],
+  "Date": [
+    {
+      "plu": "4263",
+      "name": "Fresh, regular"
+    },
+    {
+      "plu": "3045",
+      "name": ", on branch"
+    },
+    {
+      "plu": "3046",
+      "name": "Fresh / Frozen"
+    },
+    {
+      "plu": "3047",
+      "name": "Medjool"
+    },
+    {
+      "plu": "4862",
+      "name": "dried"
+    },
+    {
+      "plu": "4264",
+      "name": "retailer assigned"
+    },
+    {
+      "plu": "4863",
+      "name": ", dried"
+    }
+  ],
+  "Eggplant": [
+    {
+      "plu": "4599",
+      "name": "Baby"
+    },
+    {
+      "plu": "4600",
+      "name": ", white"
+    },
+    {
+      "plu": "3089",
+      "name": "Chinese"
+    },
+    {
+      "plu": "4601",
+      "name": "Japanese"
+    },
+    {
+      "plu": "4081",
+      "name": "Regular"
+    },
+    {
+      "plu": "3090",
+      "name": "Thai"
+    },
+    {
+      "plu": "4602",
+      "name": "White"
+    },
+    {
+      "plu": "4603",
+      "name": "retailer assigned"
+    }
+  ],
+  "Endive / Chicory": [
+    {
+      "plu": "4543",
+      "name": "Belgian Endive / Whitloof Chicory"
+    },
+    {
+      "plu": "3395",
+      "name": ", red"
+    },
+    {
+      "plu": "4604",
+      "name": "Endive / Chicory"
+    },
+    {
+      "plu": "4605",
+      "name": "Escarole / Batavian Chicory, green"
+    },
+    {
+      "plu": "3324",
+      "name": ", red"
+    },
+    {
+      "plu": "3167",
+      "name": "Frisee"
+    }
+  ],
+  "Feijoa": [
+    {
+      "plu": "4265",
+      "name": "Feijoa"
+    }
+  ],
+  "Fiddlehead Ferns": [
+    {
+      "plu": "4606",
+      "name": "Fiddlehead Ferns"
+    }
+  ],
+  "Fig": [
+    {
+      "plu": "4266",
+      "name": "Black"
+    },
+    {
+      "plu": "4267",
+      "name": "Brown"
+    },
+    {
+      "plu": "4268",
+      "name": "White / Green"
+    },
+    {
+      "plu": "3337",
+      "name": "dried"
+    },
+    {
+      "plu": "4269",
+      "name": "retailer assigned"
+    }
+  ],
+  "Garlic": [
+    {
+      "plu": "4609",
+      "name": "Elephant"
+    },
+    {
+      "plu": "3401",
+      "name": "One‐clove types"
+    },
+    {
+      "plu": "4608",
+      "name": "Regular"
+    },
+    {
+      "plu": "3399",
+      "name": ", fresh or semi‐dried with leaves attached"
+    },
+    {
+      "plu": "3400",
+      "name": ", smoked"
+    },
+    {
+      "plu": "3052",
+      "name": "String"
+    }
+  ],
+  "Ginger": [
+    {
+      "plu": "4612",
+      "name": "Root, regular"
+    },
+    {
+      "plu": "4613",
+      "name": "retailer assigned"
+    }
+  ],
+  "Gobo Root": [
+    {
+      "plu": "3091",
+      "name": "Gobo Root / Burdock Root"
+    }
+  ],
+  "Grape": [
+    {
+      "plu": "4270",
+      "name": "Blue / Black, seeded, Ribier / Exotic / Niabel"
+    },
+    {
+      "plu": "4957",
+      "name": "seeded, all other varieties"
+    },
+    {
+      "plu": "4056",
+      "name": "seedless, Beauty / all other varieties"
+    },
+    {
+      "plu": "4271",
+      "name": "Champagne"
+    },
+    {
+      "plu": "3359",
+      "name": "Chasselas"
+    },
+    {
+      "plu": "4272",
+      "name": "Concord"
+    },
+    {
+      "plu": "4499",
+      "name": "Crimson / Majestic"
+    },
+    {
+      "plu": "4638",
+      "name": "Fantasy / Marroo"
+    },
+    {
+      "plu": "3043",
+      "name": "Italian, seeded"
+    },
+    {
+      "plu": "3360",
+      "name": "Muscat de Hambourg"
+    },
+    {
+      "plu": "4636",
+      "name": "Red Globe"
+    },
+    {
+      "plu": "4273",
+      "name": "Red, seeded, Cardinal / Emperor / Queen / Christmas Rose"
+    },
+    {
+      "plu": "4637",
+      "name": "varieties"
+    },
+    {
+      "plu": "4023",
+      "name": "seedless, Flame / Ruby / Emperatriz"
+    },
+    {
+      "plu": "4497",
+      "name": "Sugarone / Autumn, seedless"
+    },
+    {
+      "plu": "4274",
+      "name": "White / Green, seeded, all other varieties"
+    },
+    {
+      "plu": "4022",
+      "name": "Thompson Seedless"
+    },
+    {
+      "plu": "4498",
+      "name": "seedless, all other varieties"
+    }
+  ],
+  "Grapefruit": [
+    {
+      "plu": "3092",
+      "name": "Blanco / Sweetie"
+    }
+  ],
+  "Greens": [
+    {
+      "plu": "4884",
+      "name": "Arugula / Rocket"
+    },
+    {
+      "plu": "4614",
+      "name": "Collards"
+    },
+    {
+      "plu": "4615",
+      "name": "Dandelion"
+    },
+    {
+      "plu": "4627",
+      "name": "Kale"
+    },
+    {
+      "plu": "3095",
+      "name": ", multicolor"
+    },
+    {
+      "plu": "4616",
+      "name": "Mustard"
+    },
+    {
+      "plu": "4617",
+      "name": "Polk Greens"
+    },
+    {
+      "plu": "4618",
+      "name": "Texas Mustard"
+    },
+    {
+      "plu": "4619",
+      "name": "Turnip"
+    }
+  ],
+  "Guava": [
+    {
+      "plu": "4299",
+      "name": "Guava"
+    }
+  ],
+  "Herbs": [
+    {
+      "plu": "3064",
+      "name": "Aloe Vera Leaves"
+    },
+    {
+      "plu": "3338",
+      "name": "Anise"
+    },
+    {
+      "plu": "4892",
+      "name": "Baby Dill"
+    },
+    {
+      "plu": "4885",
+      "name": "Basil"
+    },
+    {
+      "plu": "4886",
+      "name": ", opal"
+    },
+    {
+      "plu": "4887",
+      "name": ", sweet"
+    },
+    {
+      "plu": "3062",
+      "name": "Bay Leaves"
+    },
+    {
+      "plu": "3419",
+      "name": "Borage"
+    },
+    {
+      "plu": "3084",
+      "name": "Chervil"
+    },
+    {
+      "plu": "4888",
+      "name": "Chives"
+    },
+    {
+      "plu": "4889",
+      "name": "Cilantro / Coriander / Chinese Parsley"
+    },
+    {
+      "plu": "4891",
+      "name": "Dill"
+    },
+    {
+      "plu": "4515",
+      "name": "Fennel / Florence / Sweet Fennel / Fennel Bulb"
+    },
+    {
+      "plu": "3063",
+      "name": "Fennel Leaves"
+    },
+    {
+      "plu": "4894",
+      "name": "Lemon Grass"
+    },
+    {
+      "plu": "4895",
+      "name": "Marjoram"
+    },
+    {
+      "plu": "4896",
+      "name": "Mint"
+    },
+    {
+      "plu": "4897",
+      "name": "Oregano"
+    },
+    {
+      "plu": "4898",
+      "name": "Oyster Plant / Salsify"
+    },
+    {
+      "plu": "4671",
+      "name": "Parsley Root / Hamburg Parsley"
+    },
+    {
+      "plu": "4899",
+      "name": "Parsley, regular / curly"
+    },
+    {
+      "plu": "4901",
+      "name": ", Italian / Continental / French"
+    },
+    {
+      "plu": "4893",
+      "name": "Pickling Dill"
+    },
+    {
+      "plu": "4903",
+      "name": "Rosemary"
+    },
+    {
+      "plu": "4904",
+      "name": "Sage"
+    },
+    {
+      "plu": "3139",
+      "name": "Savory"
+    },
+    {
+      "plu": "4905",
+      "name": "Sorrel"
+    },
+    {
+      "plu": "4906",
+      "name": "Tarragon"
+    },
+    {
+      "plu": "4907",
+      "name": "Thyme"
+    },
+    {
+      "plu": "4908",
+      "name": "Vanilla Bean"
+    },
+    {
+      "plu": "4815",
+      "name": "Watercress"
+    },
+    {
+      "plu": "4902",
+      "name": "retailer assigned, Parsley"
+    }
+  ],
+  "Homli Fruit": [
+    {
+      "plu": "4300",
+      "name": "Homli Fruit"
+    }
+  ],
+  "Horseradish Root": [
+    {
+      "plu": "4625",
+      "name": "Horseradish Root"
+    }
+  ],
+  "Jicama / Yam Bean": [
+    {
+      "plu": "4626",
+      "name": "Jicama / Yam Bean"
+    }
+  ],
+  "Kiwi Fruit": [
+    {
+      "plu": "3279",
+      "name": "Golden"
+    },
+    {
+      "plu": "4030",
+      "name": "Regular"
+    },
+    {
+      "plu": "3280",
+      "name": ", jumbo"
+    },
+    {
+      "plu": "4301",
+      "name": "retailer assigned"
+    }
+  ],
+  "Kohlrabi": [
+    {
+      "plu": "4628",
+      "name": "Kohlrabi"
+    },
+    {
+      "plu": "3096",
+      "name": ", all colors"
+    }
+  ],
+  "Kumquat": [
+    {
+      "plu": "4303",
+      "name": "Kumquat"
+    }
+  ],
+  "Leek": [
+    {
+      "plu": "4629",
+      "name": "Regular"
+    }
+  ],
+  "Lemon": [
+    {
+      "plu": "4033",
+      "name": "Lemon, small"
+    },
+    {
+      "plu": "4958",
+      "name": ", medium"
+    },
+    {
+      "plu": "4053",
+      "name": ", large"
+    }
+  ],
+  "Lettuce": [
+    {
+      "plu": "4631",
+      "name": "Bibb / Flat / Round"
+    },
+    {
+      "plu": "4632",
+      "name": "Boston / Butter"
+    },
+    {
+      "plu": "3098",
+      "name": ", red"
+    },
+    {
+      "plu": "3169",
+      "name": "Catalogna"
+    },
+    {
+      "plu": "4076",
+      "name": "Green Leaf"
+    },
+    {
+      "plu": "4633",
+      "name": "Hydroponic"
+    }
+  ],
+  "Lime": [
+    {
+      "plu": "4048",
+      "name": "Regular, including Persian / Tahiti / Bearss"
+    },
+    {
+      "plu": "4305",
+      "name": "Key, including Mexican / West Indian"
+    },
+    {
+      "plu": "4306",
+      "name": "retailer assigned"
+    }
+  ],
+  "Limequat": [
+    {
+      "plu": "4328",
+      "name": "Limequat"
+    }
+  ],
+  "Longan": [
+    {
+      "plu": "4307",
+      "name": "Longan"
+    }
+  ],
+  "Loquat": [
+    {
+      "plu": "4308",
+      "name": "Loquat"
+    }
+  ],
+  "Lotus Root": [
+    {
+      "plu": "3099",
+      "name": "Lotus Root"
+    }
+  ],
+  "Lychee": [
+    {
+      "plu": "4309",
+      "name": "Lychee"
+    }
+  ],
+  "Madroña": [
+    {
+      "plu": "3366",
+      "name": "Madroña"
+    }
+  ],
+  "Malanga": [
+    {
+      "plu": "4644",
+      "name": "Malanga"
+    }
+  ],
+  "Mamey": [
+    {
+      "plu": "4310",
+      "name": "Mamey"
+    }
+  ],
+  "Mango": [
+    {
+      "plu": "3363",
+      "name": "Bowen & Kensington Pride, extra large"
+    },
+    {
+      "plu": "4311",
+      "name": "Green"
+    },
+    {
+      "plu": "3364",
+      "name": "R2E2 [ArtwoEetwo], extra large"
+    },
+    {
+      "plu": "4051",
+      "name": "Red, small"
+    },
+    {
+      "plu": "4959",
+      "name": ", large"
+    }
+  ],
+  "Mangosteen": [
+    {
+      "plu": "3042",
+      "name": "Mangosteen"
+    }
+  ],
+  "Melon": [
+    {
+      "plu": "4317",
+      "name": "Canary / Yellow Honeydew"
+    }
+  ],
+  "Mushroom": [
+    {
+      "plu": "4646",
+      "name": "Black Forest"
+    },
+    {
+      "plu": "3404",
+      "name": "Cep"
+    },
+    {
+      "plu": "4647",
+      "name": "Chanterelle"
+    },
+    {
+      "plu": "4648",
+      "name": "Cremini / Brown / Swiss Brown"
+    },
+    {
+      "plu": "3103",
+      "name": "Enoki"
+    },
+    {
+      "plu": "3405",
+      "name": "Fairy Ring Champignon"
+    },
+    {
+      "plu": "3406",
+      "name": "Grey Tricholoma"
+    },
+    {
+      "plu": "3407",
+      "name": "Grisette"
+    },
+    {
+      "plu": "3408",
+      "name": "Horn of Plenty / Black Trumpet"
+    },
+    {
+      "plu": "3102",
+      "name": "Morel"
+    },
+    {
+      "plu": "4649",
+      "name": "Oyster"
+    },
+    {
+      "plu": "3409",
+      "name": "Pioppino"
+    },
+    {
+      "plu": "4650",
+      "name": "Portabella"
+    },
+    {
+      "plu": "4645",
+      "name": "Regular, button, small"
+    },
+    {
+      "plu": "4085",
+      "name": ", large"
+    },
+    {
+      "plu": "3410",
+      "name": "Saffron Milk‐Cap"
+    },
+    {
+      "plu": "3411",
+      "name": "Sheep Polypore"
+    },
+    {
+      "plu": "4651",
+      "name": "Shiitake"
+    },
+    {
+      "plu": "4652",
+      "name": "Wood Ear"
+    }
+  ],
+  "Nectarine": [
+    {
+      "plu": "3369",
+      "name": "Nectavigne, red flesh"
+    },
+    {
+      "plu": "4188",
+      "name": "White Flesh, tree ripened, ready‐to‐eat, small"
+    },
+    {
+      "plu": "3035",
+      "name": ", large"
+    },
+    {
+      "plu": "4035",
+      "name": "Yellow Flesh, small"
+    },
+    {
+      "plu": "4036",
+      "name": ", large"
+    }
+  ],
+  "Nuts": [
+    {
+      "plu": "4924",
+      "name": "Almonds"
+    },
+    {
+      "plu": "4926",
+      "name": "Brazil nuts"
+    },
+    {
+      "plu": "3105",
+      "name": "Cashews"
+    },
+    {
+      "plu": "4927",
+      "name": "Chestnuts"
+    },
+    {
+      "plu": "4928",
+      "name": "Filberts / Cobnut / Hazelnut"
+    },
+    {
+      "plu": "3106",
+      "name": "Macadamia"
+    },
+    {
+      "plu": "4929",
+      "name": "Mixed"
+    },
+    {
+      "plu": "4930",
+      "name": "Peanuts"
+    },
+    {
+      "plu": "4931",
+      "name": ", raw"
+    },
+    {
+      "plu": "4932",
+      "name": ", roasted salted"
+    },
+    {
+      "plu": "4933",
+      "name": ", roasted unsalted"
+    },
+    {
+      "plu": "4936",
+      "name": "Pecans"
+    },
+    {
+      "plu": "4938",
+      "name": "Pine Nuts / Pignoli"
+    },
+    {
+      "plu": "4939",
+      "name": "Pistachio, natural"
+    },
+    {
+      "plu": "4940",
+      "name": ", red"
+    },
+    {
+      "plu": "4942",
+      "name": "Sunflower Seeds"
+    },
+    {
+      "plu": "4943",
+      "name": "Walnuts, regular"
+    },
+    {
+      "plu": "4944",
+      "name": ", black"
+    },
+    {
+      "plu": "4945",
+      "name": ", white"
+    },
+    {
+      "plu": "4925",
+      "name": "retailer assigned, Almonds"
+    },
+    {
+      "plu": "4937",
+      "name": ", Peanuts (4934‐4935), Pecans"
+    },
+    {
+      "plu": "4941",
+      "name": ", Pistachio"
+    },
+    {
+      "plu": "4946",
+      "name": "Walnuts"
+    }
+  ],
+  "Okra": [
+    {
+      "plu": "4655",
+      "name": "Regular, green"
+    },
+    {
+      "plu": "4656",
+      "name": "Chinese"
+    },
+    {
+      "plu": "4657",
+      "name": "Red"
+    }
+  ],
+  "Onion": [
+    {
+      "plu": "4658",
+      "name": "Boiling"
+    },
+    {
+      "plu": "4659",
+      "name": "Bulb"
+    },
+    {
+      "plu": "4165",
+      "name": "California Sweet"
+    },
+    {
+      "plu": "4068",
+      "name": "Green / Scallions / Spring"
+    },
+    {
+      "plu": "4164",
+      "name": "Maui"
+    },
+    {
+      "plu": "4166",
+      "name": "Other Sweet"
+    },
+    {
+      "plu": "4660",
+      "name": "Pearl"
+    },
+    {
+      "plu": "4661",
+      "name": "Pickling, white"
+    },
+    {
+      "plu": "4082",
+      "name": "Red"
+    },
+    {
+      "plu": "3331",
+      "name": ", fresh, bunch"
+    },
+    {
+      "plu": "4662",
+      "name": "Shallots"
+    },
+    {
+      "plu": "3286",
+      "name": "Sweet, red, Italian, [flat]"
+    },
+    {
+      "plu": "4161",
+      "name": "Texas Sweet"
+    },
+    {
+      "plu": "4159",
+      "name": "Vidalia"
+    },
+    {
+      "plu": "4163",
+      "name": "Walla Walla"
+    },
+    {
+      "plu": "4663",
+      "name": "White"
+    },
+    {
+      "plu": "4665",
+      "name": "Yellow / Brown, small"
+    },
+    {
+      "plu": "4093",
+      "name": ", large"
+    },
+    {
+      "plu": "3412",
+      "name": ", fresh, bunch"
+    }
+  ],
+  "Orange": [
+    {
+      "plu": "4381",
+      "name": "Blood"
+    },
+    {
+      "plu": "3028",
+      "name": "Delta, seedless, small"
+    },
+    {
+      "plu": "3153",
+      "name": ", medium"
+    },
+    {
+      "plu": "3154",
+      "name": ", large"
+    },
+    {
+      "plu": "4382",
+      "name": "Juice"
+    },
+    {
+      "plu": "3309",
+      "name": "Lima"
+    },
+    {
+      "plu": "3370",
+      "name": "Maltaise"
+    },
+    {
+      "plu": "3036",
+      "name": "Midknight, small"
+    },
+    {
+      "plu": "3155",
+      "name": ", medium"
+    },
+    {
+      "plu": "3156",
+      "name": ", large"
+    }
+  ],
+  "Papaya / Pawpaw": [
+    {
+      "plu": "3303",
+      "name": "Babaco"
+    },
+    {
+      "plu": "4395",
+      "name": "Cooking / Mexican"
+    },
+    {
+      "plu": "3112",
+      "name": "Meridol"
+    },
+    {
+      "plu": "3111",
+      "name": "Red‐Fleshed / Solo Sunrise"
+    },
+    {
+      "plu": "4052",
+      "name": "Regular, small"
+    },
+    {
+      "plu": "4394",
+      "name": ", large"
+    },
+    {
+      "plu": "4396",
+      "name": "retailer assigned"
+    }
+  ],
+  "Parsnip": [
+    {
+      "plu": "3053",
+      "name": "Baby"
+    },
+    {
+      "plu": "4672",
+      "name": "Parsnips"
+    }
+  ],
+  "Passion Fruit": [
+    {
+      "plu": "3311",
+      "name": "Curuba / Banana"
+    },
+    {
+      "plu": "3038",
+      "name": "Granadilla / Grenadilla Orange"
+    },
+    {
+      "plu": "3312",
+      "name": "Granadilla Yellow / Maracuya"
+    },
+    {
+      "plu": "4397",
+      "name": "Purple"
+    },
+    {
+      "plu": "4398",
+      "name": "retailer assigned"
+    }
+  ],
+  "Peach": [
+    {
+      "plu": "3113",
+      "name": "Donut / Flat Chinese"
+    },
+    {
+      "plu": "4399",
+      "name": "Indian"
+    },
+    {
+      "plu": "3375",
+      "name": "Pêche de Vigne / Sanguine, red flesh"
+    },
+    {
+      "plu": "4400",
+      "name": "White Flesh, small"
+    },
+    {
+      "plu": "4401",
+      "name": ", large"
+    },
+    {
+      "plu": "3313",
+      "name": "tree ripened, ready‐to‐eat, small"
+    }
+  ],
+  "Pea": [
+    {
+      "plu": "4673",
+      "name": "Blackeyed"
+    },
+    {
+      "plu": "3398",
+      "name": "Chick Pea / Garbanzo"
+    },
+    {
+      "plu": "4092",
+      "name": "Chinese Snow Pea / Pea Pod / Mange Tout"
+    },
+    {
+      "plu": "4674",
+      "name": "Green"
+    },
+    {
+      "plu": "4675",
+      "name": "Sugar Snap"
+    },
+    {
+      "plu": "4676",
+      "name": "retailer assigned"
+    }
+  ],
+  "Pear": [
+    {
+      "plu": "3012",
+      "name": "Abate Fetel"
+    },
+    {
+      "plu": "3376",
+      "name": "Alexander Lucas"
+    },
+    {
+      "plu": "4408",
+      "name": "Asian / Nashi, brown"
+    },
+    {
+      "plu": "4406",
+      "name": ", white"
+    },
+    {
+      "plu": "4407",
+      "name": ", yellow"
+    },
+    {
+      "plu": "4024",
+      "name": "Bartlett / Williams / WBC, small"
+    },
+    {
+      "plu": "4409",
+      "name": ", large"
+    },
+    {
+      "plu": "4410",
+      "name": "Bartlett Red / Red Sensation"
+    },
+    {
+      "plu": "3013",
+      "name": "Beurre Hardy"
+    },
+    {
+      "plu": "3014",
+      "name": "Bon Rouge"
+    }
+  ],
+  "Pepper": [
+    {
+      "plu": "4677",
+      "name": "Anaheim, green, red"
+    },
+    {
+      "plu": "4678",
+      "name": "Banana, yellow, long"
+    },
+    {
+      "plu": "4679",
+      "name": "Bell, field grown, brown"
+    },
+    {
+      "plu": "4680",
+      "name": ", golden yellow"
+    },
+    {
+      "plu": "4681",
+      "name": ", green, small"
+    },
+    {
+      "plu": "4065",
+      "name": ", large"
+    },
+    {
+      "plu": "4682",
+      "name": "orange"
+    },
+    {
+      "plu": "4683",
+      "name": ", purple"
+    },
+    {
+      "plu": "4088",
+      "name": ", red"
+    },
+    {
+      "plu": "4684",
+      "name": ", white"
+    },
+    {
+      "plu": "3123",
+      "name": "Bell, greenhouse, brown"
+    },
+    {
+      "plu": "3119",
+      "name": ", green, small"
+    },
+    {
+      "plu": "3120",
+      "name": ", large"
+    },
+    {
+      "plu": "3121",
+      "name": ", orange"
+    },
+    {
+      "plu": "4688",
+      "name": "(3124), red"
+    },
+    {
+      "plu": "3122",
+      "name": ", white"
+    },
+    {
+      "plu": "4689",
+      "name": ", yellow"
+    },
+    {
+      "plu": "3055",
+      "name": "Capsicums [Elongated Clovis] / Lamuyo, green"
+    },
+    {
+      "plu": "3057",
+      "name": ", orange"
+    },
+    {
+      "plu": "3054",
+      "name": ", red"
+    },
+    {
+      "plu": "3056",
+      "name": "(3058), yellow"
+    },
+    {
+      "plu": "4685",
+      "name": "Chili, dried"
+    },
+    {
+      "plu": "4686",
+      "name": ", green"
+    },
+    {
+      "plu": "4772",
+      "name": ", yellow"
+    },
+    {
+      "plu": "4687",
+      "name": "Cubanelle"
+    },
+    {
+      "plu": "3125",
+      "name": "Habanero"
+    },
+    {
+      "plu": "4690",
+      "name": "Hot / Hungarian Hot"
+    },
+    {
+      "plu": "4691",
+      "name": "Hot Mixed"
+    },
+    {
+      "plu": "4692",
+      "name": "Hungarian Wax"
+    },
+    {
+      "plu": "4693",
+      "name": "Jalapeno / Mexican, green"
+    },
+    {
+      "plu": "4694",
+      "name": ", red"
+    },
+    {
+      "plu": "4695",
+      "name": "Japanese, red"
+    },
+    {
+      "plu": "4696",
+      "name": "Long, hot, green"
+    },
+    {
+      "plu": "4697",
+      "name": ", red"
+    },
+    {
+      "plu": "4698",
+      "name": "Morita Chili"
+    },
+    {
+      "plu": "4699",
+      "name": "Negro"
+    },
+    {
+      "plu": "4700",
+      "name": "New Mexico"
+    },
+    {
+      "plu": "4701",
+      "name": "Pasilla, green"
+    },
+    {
+      "plu": "4702",
+      "name": ", red"
+    },
+    {
+      "plu": "4703",
+      "name": ", Pod"
+    },
+    {
+      "plu": "4704",
+      "name": "Pinole"
+    },
+    {
+      "plu": "4705",
+      "name": "Poblano"
+    },
+    {
+      "plu": "4706",
+      "name": "Red Cheese"
+    },
+    {
+      "plu": "4707",
+      "name": "Red Finger"
+    },
+    {
+      "plu": "4708",
+      "name": "Red Pimiento / Red, sweet, long"
+    },
+    {
+      "plu": "4709",
+      "name": "Serrano"
+    },
+    {
+      "plu": "3413",
+      "name": "Tabasco"
+    }
+  ],
+  "Persimmon": [
+    {
+      "plu": "4427",
+      "name": "Regular / American Persimmon"
+    },
+    {
+      "plu": "4428",
+      "name": "Japanese / Sharonfruit [Kaki]"
+    },
+    {
+      "plu": "4429",
+      "name": "retailer assigned"
+    }
+  ],
+  "Pineapple": [
+    {
+      "plu": "4431",
+      "name": "Jet Fresh, small"
+    },
+    {
+      "plu": "4432",
+      "name": ", large"
+    },
+    {
+      "plu": "4029",
+      "name": "Pineapple, small"
+    },
+    {
+      "plu": "4430",
+      "name": ", large"
+    },
+    {
+      "plu": "3379",
+      "name": "Mini"
+    },
+    {
+      "plu": "3380",
+      "name": "Perola"
+    },
+    {
+      "plu": "3037",
+      "name": "Queen"
+    },
+    {
+      "plu": "4864",
+      "name": "dried"
+    },
+    {
+      "plu": "4433",
+      "name": "retailer assigned"
+    }
+  ],
+  "Pitahaya": [
+    {
+      "plu": "3040",
+      "name": "Pitahaya, red skin color"
+    },
+    {
+      "plu": "3319",
+      "name": ", yellow skin color"
+    }
+  ],
+  "Plumcot": [
+    {
+      "plu": "3126",
+      "name": "Plumcot"
+    }
+  ],
+  "Pomegranate": [
+    {
+      "plu": "4445",
+      "name": "Pomegranate, small"
+    },
+    {
+      "plu": "3127",
+      "name": ", large"
+    },
+    {
+      "plu": "4446",
+      "name": "retailer assigned"
+    }
+  ],
+  "Pumpkin": [
+    {
+      "plu": "3131",
+      "name": "Decorative / Painted"
+    },
+    {
+      "plu": "3130",
+      "name": "Jumbo"
+    },
+    {
+      "plu": "4734",
+      "name": "Mini"
+    },
+    {
+      "plu": "3133",
+      "name": ", white"
+    },
+    {
+      "plu": "3135",
+      "name": "Ornamental"
+    },
+    {
+      "plu": "3134",
+      "name": "Pie Pumpkin"
+    },
+    {
+      "plu": "4735",
+      "name": "Regular"
+    },
+    {
+      "plu": "3132",
+      "name": "White"
+    }
+  ],
+  "Quince": [
+    {
+      "plu": "4447",
+      "name": "Quince"
+    }
+  ],
+  "Radicchio": [
+    {
+      "plu": "3168",
+      "name": "Castlefranco"
+    },
+    {
+      "plu": "4738",
+      "name": "Radicchio"
+    },
+    {
+      "plu": "3165",
+      "name": "Treviso"
+    }
+  ],
+  "Radish": [
+    {
+      "plu": "4739",
+      "name": "Black"
+    },
+    {
+      "plu": "4089",
+      "name": "Bunched, red"
+    },
+    {
+      "plu": "4740",
+      "name": ", white"
+    },
+    {
+      "plu": "4598",
+      "name": "Daikon / Radish"
+    },
+    {
+      "plu": "4741",
+      "name": "Italian, red"
+    },
+    {
+      "plu": "4742",
+      "name": "Red"
+    },
+    {
+      "plu": "4743",
+      "name": "White / Icicle"
+    },
+    {
+      "plu": "4744",
+      "name": "retailer assigned"
+    }
+  ],
+  "Rambutan": [
+    {
+      "plu": "3041",
+      "name": "Rambutan"
+    }
+  ],
+  "Rhubarb": [
+    {
+      "plu": "4745",
+      "name": "Rhubarb"
+    }
+  ],
+  "Salad Bar": [
+    {
+      "plu": "4470",
+      "name": "Salad Bar"
+    }
+  ],
+  "Sapote": [
+    {
+      "plu": "3136",
+      "name": "Sapodillo / Nispero"
+    },
+    {
+      "plu": "3137",
+      "name": "Sapote, white"
+    },
+    {
+      "plu": "3138",
+      "name": ", black"
+    }
+  ],
+  "Soursop": [
+    {
+      "plu": "3381",
+      "name": "Soursop"
+    }
+  ],
+  "Spinach": [
+    {
+      "plu": "3332",
+      "name": "Baby"
+    }
+  ],
+  "Squash": [
+    {
+      "plu": "4750",
+      "name": "Acorn / Table Queen"
+    },
+    {
+      "plu": "3143",
+      "name": ", baby"
+    },
+    {
+      "plu": "4751",
+      "name": ", Golden"
+    },
+    {
+      "plu": "4752",
+      "name": ", white / Swan,"
+    },
+    {
+      "plu": "4753",
+      "name": "Australian Blue"
+    },
+    {
+      "plu": "4757",
+      "name": "Banana"
+    },
+    {
+      "plu": "4783",
+      "name": "Bitter Melon / Bitter Gourd / Foo Qua"
+    },
+    {
+      "plu": "4758",
+      "name": "Buttercup"
+    },
+    {
+      "plu": "4759",
+      "name": "Butternut"
+    },
+    {
+      "plu": "4760",
+      "name": "Calabaza"
+    },
+    {
+      "plu": "3142",
+      "name": "Carnival"
+    },
+    {
+      "plu": "4761",
+      "name": "Chayote / Choko"
+    },
+    {
+      "plu": "3059",
+      "name": "Crown Prince"
+    },
+    {
+      "plu": "3140",
+      "name": "Cucuzza"
+    },
+    {
+      "plu": "4763",
+      "name": "Delicata / Sweet Potato Squash"
+    },
+    {
+      "plu": "4765",
+      "name": "Gem"
+    },
+    {
+      "plu": "4766",
+      "name": "Golden Delicious"
+    },
+    {
+      "plu": "4767",
+      "name": "Golden Nugget"
+    },
+    {
+      "plu": "4768",
+      "name": "Hubbard"
+    },
+    {
+      "plu": "4769",
+      "name": "Kabocha"
+    },
+    {
+      "plu": "3141",
+      "name": "Opo"
+    },
+    {
+      "plu": "4773",
+      "name": "Patty Pan / Summer"
+    },
+    {
+      "plu": "4774",
+      "name": "Red Kuri"
+    },
+    {
+      "plu": "4775",
+      "name": "Scallopini"
+    },
+    {
+      "plu": "4754",
+      "name": ", baby"
+    },
+    {
+      "plu": "4776",
+      "name": "Spaghetti / Vegetable Spaghetti"
+    },
+    {
+      "plu": "4755",
+      "name": "Summer, green, baby"
+    },
+    {
+      "plu": "4777",
+      "name": "Sunburst, yellow"
+    },
+    {
+      "plu": "4764",
+      "name": "Sweet Dumpling"
+    },
+    {
+      "plu": "4779",
+      "name": "Sweet Mama"
+    },
+    {
+      "plu": "4780",
+      "name": "Turban"
+    },
+    {
+      "plu": "3060",
+      "name": "Vegetable Marrow"
+    },
+    {
+      "plu": "4781",
+      "name": "White"
+    },
+    {
+      "plu": "4784",
+      "name": "Yellow Crookneck"
+    },
+    {
+      "plu": "4782",
+      "name": "Yellow Straightneck"
+    },
+    {
+      "plu": "4086",
+      "name": "Yellow Zucchini / Gold Bar / Yellow Courgette"
+    },
+    {
+      "plu": "4067",
+      "name": "Zucchini / Courgette"
+    },
+    {
+      "plu": "3418",
+      "name": ", round"
+    },
+    {
+      "plu": "4756",
+      "name": ", baby, green"
+    }
+  ],
+  "Sugar Cane": [
+    {
+      "plu": "4790",
+      "name": "Sugar Cane"
+    }
+  ],
+  "Tamarillo": [
+    {
+      "plu": "4792",
+      "name": "Golden"
+    },
+    {
+      "plu": "4793",
+      "name": "Red"
+    }
+  ],
+  "Tamarindo": [
+    {
+      "plu": "4448",
+      "name": "Tamarindo"
+    }
+  ],
+  "Tangerine / Mandarin": [
+    {
+      "plu": "4450",
+      "name": "Clementine [including Fortune]"
+    }
+  ],
+  "Tomato": [
+    {
+      "plu": "3061",
+      "name": "Beef / Beefsteak"
+    },
+    {
+      "plu": "4796",
+      "name": "Cherry, red"
+    },
+    {
+      "plu": "3146",
+      "name": ", on the vine"
+    },
+    {
+      "plu": "4797",
+      "name": ", yellow"
+    },
+    {
+      "plu": "3147",
+      "name": ", on the vine"
+    },
+    {
+      "plu": "3150",
+      "name": "Cocktail / Intermediate Red"
+    },
+    {
+      "plu": "3335",
+      "name": ", on the vine [Truss]"
+    },
+    {
+      "plu": "4798",
+      "name": "Greenhouse / Hydroponic, regular, red, small"
+    },
+    {
+      "plu": "4799",
+      "name": ", large"
+    },
+    {
+      "plu": "3423",
+      "name": "Heirloom"
+    },
+    {
+      "plu": "4800",
+      "name": "Native / Home Grown"
+    },
+    {
+      "plu": "4087",
+      "name": "Plum / Italian / Saladette / Roma, red"
+    },
+    {
+      "plu": "3282",
+      "name": ", on the vine"
+    },
+    {
+      "plu": "3145",
+      "name": ", yellow"
+    },
+    {
+      "plu": "3149",
+      "name": "Regular, orange, on the vine"
+    },
+    {
+      "plu": "4063",
+      "name": "red, small"
+    },
+    {
+      "plu": "4064",
+      "name": ", large"
+    },
+    {
+      "plu": "4778",
+      "name": "yellow"
+    },
+    {
+      "plu": "3148",
+      "name": ", on the vine [Truss]"
+    },
+    {
+      "plu": "4803",
+      "name": "Teardrop / Pear, red"
+    },
+    {
+      "plu": "4804",
+      "name": ", yellow"
+    },
+    {
+      "plu": "4801",
+      "name": "Tomatillos / Husk Tomatoes"
+    },
+    {
+      "plu": "4805",
+      "name": "Vine Ripe, regular, red, small"
+    },
+    {
+      "plu": "3151",
+      "name": ", large"
+    },
+    {
+      "plu": "4802",
+      "name": "dried"
+    }
+  ],
+  "Taro Root / Dasheen": [
+    {
+      "plu": "4794",
+      "name": "Taro Root, small"
+    },
+    {
+      "plu": "4795",
+      "name": ", large"
+    }
+  ],
+  "Turnip / Rutabaga / Swede": [
+    {
+      "plu": "4809",
+      "name": "Baby"
+    },
+    {
+      "plu": "4810",
+      "name": "Bunch / Banded"
+    },
+    {
+      "plu": "4811",
+      "name": "Purple Top"
+    },
+    {
+      "plu": "4747",
+      "name": "Regular"
+    },
+    {
+      "plu": "4812",
+      "name": "White"
+    },
+    {
+      "plu": "4095",
+      "name": "Yellow"
+    }
+  ],
+  "Waterchestnuts": [
+    {
+      "plu": "4814",
+      "name": "Waterchestnuts"
+    }
+  ],
+  "Yucca Root": [
+    {
+      "plu": "4819",
+      "name": "Yucca Root"
+    }
+  ]
+}
