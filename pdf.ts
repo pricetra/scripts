@@ -1,5 +1,6 @@
 import fs from "fs";
 import pdf from "pdf-parse";
+import 'dotenv/config';
 
 type PluData = {
   plu: string;
@@ -47,7 +48,7 @@ export async function parsePluPdf(pdfFilename: string): Promise<Map<string, PluD
         // Try to extract size if present inside the name
         let size: string | undefined;
         const sizeMatch = rawName.match(
-          /\b(small|medium|large|extra large|red|yellow|green|on the vine)\b/i
+          /b(small|medium|large|extra large|red|yellow|green|on the vine)b/i
         );
         if (sizeMatch) {
           size = sizeMatch[1].toLowerCase();
@@ -67,13 +68,46 @@ export async function parsePluPdf(pdfFilename: string): Promise<Map<string, PluD
 }
 
 if (require.main === module) {
-  parsePluPdf("2011-plu-listings.pdf").then((data) => {
-    data.forEach((value, key) => {
-      if (value.length === 0) data.delete(key);
-      if (key.length === 1) data.delete(key);
-      if (key.includes(',') || key.includes('(') || key.includes(')')) data.delete(key);
-    });
-    const jsonDump = JSON.stringify(Object.fromEntries(data), null, 2);
-    fs.writeFileSync("plu.json", jsonDump);
+  parsePluPdf("2011-plu-listings.pdf").then(async (data) => {
+    for (const [key, val] of data) {
+      if (val.length === 0) continue;
+      if (key.length === 1) continue;
+      if (key.includes(',') || key.includes('(') || key.includes(')')) continue;
+
+      for (const { plu, name, size } of val) {
+        console.log('PLU', plu)
+        const nameBuilder = [key]
+        const nameClean = name.replace(', ', '')
+        if (nameClean !== key) {
+          nameBuilder.push(nameClean)
+        }
+        if (size && size.length > 0) {
+          nameBuilder.push(size);
+        }
+        const formattedName = nameBuilder.join(' ')
+        console.log(formattedName)
+        try {
+          const res = await fetch("https://api.pricetra.com/graphql", {
+            headers: {
+              "Authorization": `Bearer ${process.env.JWT}`,
+              "Accept": "application/json, multipart/mixed",
+              "Accept-Language": "en-US,en;q=0.5",
+              "Content-Type": "application/json",
+            },
+            body: `{"query":"mutation CreateProduct($input:CreateProduct!) {\\n  createProduct(input:$input) {\\n    id\\n  }\\n}","variables":{"input":{"code":"${plu}","name":"${formattedName}","brand":"N/A","description":"","categoryId":509}},"operationName":"CreateProduct"}`,
+            method: "POST",
+
+          })
+
+          console.log(await res.json())
+          if (!res.ok) {
+            console.log('request failed')
+            return;
+          }
+        } catch (err) {
+          console.error(err)
+        }
+      }
+    }
   });
 }
