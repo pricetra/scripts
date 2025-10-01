@@ -96,7 +96,6 @@ if (require.main === module) {
             },
             body: `{"query":"mutation CreateProduct($input:CreateProduct!) {\\n  createProduct(input:$input) {\\n    id\\n  }\\n}","variables":{"input":{"code":"${plu}","name":"${formattedName}","brand":"N/A","description":"","categoryId":509}},"operationName":"CreateProduct"}`,
             method: "POST",
-
           })
 
           console.log(await res.json())
