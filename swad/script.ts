@@ -56,7 +56,7 @@ const inputData = dataArray.map((p) => {
     description: p.details
       ? `${p.details}. ${descriptionExtra}`
       : descriptionExtra,
-    category: p.category,
+    category: p.category ?? "Uncategorized",
   } as CreateProductRaw;
 });
 
@@ -79,8 +79,13 @@ inputData.forEach(async (input) => {
     jwt,
   )
 
-  if (data)
-    console.log(`Added: https://pricetra.com/products/${data.createProductAndSanitize.id}`)
+  if (data) {
+    console.log(`Added ${input.code}: https://pricetra.com/products/${data.createProductAndSanitize.id}`)
+    return;
+  }
 
-  if (errors) console.log(`Failed adding ${input.code}.`, errors)
+  if (errors) {
+    console.log(`Failed adding ${input.code}.`, JSON.stringify(errors), JSON.stringify(input))
+    return;
+  }
 });

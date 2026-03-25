@@ -1,10 +1,10 @@
 export type SwadProduct = {
   barcode: string;
   sku: string;
-  category: "Mukhwas";
+  category?: "Mukhwas" | null;
   details?: string | null;
   feature_tag?: string | null;
-  image_path: string;
+  image_path?: string | null;
   name: string;
   nutrition?: string | null;
   price?: object | null;
