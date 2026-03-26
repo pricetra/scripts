@@ -6,6 +6,7 @@ import {
 import { fetchGraphql, normalizeUPC } from "../utils";
 import { SmartLabelResponse } from "./types";
 import "dotenv/config";
+import { program } from "commander";
 
 const jwt = process.env.JWT;
 
@@ -14,15 +15,26 @@ if (!jwt) {
   process.exit();
 }
 
-async function fetchAllSmartLabelProducts() {
-  const perPage = 500; // 50, 100, 500
-  let page = 1;
+program
+  .name('SmartLabel Script')
+  .version('1.0.0');
+
+program
+  .option('-p, --page <number>', 'Page to start crawling from', parseInt, 10);
+
+program.parse();
+
+const options = program.opts();
+const page = options.page ?? 1;
+const limit = 500;
+
+async function fetchAllSmartLabelProducts(page: number = 1, perPage: number = 500) {
   let hasNext = true;
+  let curPage = page;
 
   while (hasNext) {
-    const url = `https://api.smartlabel.org/api/search?perPage=${perPage}&page=${page}`;
-
-    console.log(`Fetching page ${page}...`);
+    const url = `https://api.smartlabel.org/api/search?perPage=${perPage}&page=${curPage}`;
+    console.log(`Fetching page ${curPage} (${url}):\n`);
 
     try {
       const res = await fetch(url);
@@ -36,14 +48,14 @@ async function fetchAllSmartLabelProducts() {
       if (!json.data.next_page_url) {
         hasNext = false;
       } else {
-        page++; // increment manually (important)
+        curPage++; // increment manually (important)
       }
 
       for (const smartLabelItem of products) {
         await new Promise((r) => setTimeout(r, 500));
 
         const upc = normalizeUPC(smartLabelItem.upc) ?? smartLabelItem.upc;
-        console.log(`trying for ${upc}: ${JSON.stringify(smartLabelItem)}`);
+        console.log(`trying for ${upc} (page ${curPage}): ${JSON.stringify(smartLabelItem)}`);
         const { data, errors } = await fetchGraphql<
           BarcodeScanQueryVariables,
           BarcodeScanQuery
@@ -78,18 +90,19 @@ async function fetchAllSmartLabelProducts() {
           );
           continue;
         }
+        console.log('')
       }
 
       // Optional: small delay to avoid rate limiting
       await new Promise((r) => setTimeout(r, 100));
     } catch (err) {
-      console.error(`Error on page ${page}:`, err);
+      console.error(`Error on page ${curPage}:`, err);
       break;
     }
   }
 }
 
 // Run it
-fetchAllSmartLabelProducts().then(() => {
+fetchAllSmartLabelProducts(page, limit).then(() => {
   console.log("Finished fetching all data.");
 });
