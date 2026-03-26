@@ -20,7 +20,7 @@ program
   .version('1.0.0');
 
 program
-  .option('-p, --page <number>', 'Page to start crawling from', parseInt, 10);
+  .option('-p, --page <number>', 'Page to start crawling from', parseInt, 1);
 
 program.parse();
 
