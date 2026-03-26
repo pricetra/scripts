@@ -17,18 +17,18 @@ if (!jwt) {
 
 program
   .name('SmartLabel Script')
-  .version('1.0.0');
-
-program
-  .option('-p, --page <number>', 'Page to start crawling from', parseInt, 1);
-
+  .version('1.0.0')
+  .option('-p, --page <number>', 'Page to start crawling from', '');
 program.parse();
-
 const options = program.opts();
-const page = options.page ?? 1;
+let page = 1;
+if (options.page) {
+  const parsedPage = parseInt(options.page);
+  if (!isNaN(parsedPage)) page = parsedPage;
+}
 const limit = 500;
 
-async function fetchAllSmartLabelProducts(page: number = 1, perPage: number = 500) {
+async function fetchAllSmartLabelProducts(page: number, perPage: number = 500) {
   let hasNext = true;
   let curPage = page;
 
@@ -55,7 +55,9 @@ async function fetchAllSmartLabelProducts(page: number = 1, perPage: number = 50
         await new Promise((r) => setTimeout(r, 500));
 
         const upc = normalizeUPC(smartLabelItem.upc) ?? smartLabelItem.upc;
-        console.log(`trying for ${upc} (page ${curPage}): ${JSON.stringify(smartLabelItem)}`);
+        console.log();
+        console.log(`Trying ${upc} (page ${curPage}):`);
+        console.info(JSON.stringify(smartLabelItem))
         const { data, errors } = await fetchGraphql<
           BarcodeScanQueryVariables,
           BarcodeScanQuery
@@ -90,7 +92,6 @@ async function fetchAllSmartLabelProducts(page: number = 1, perPage: number = 50
           );
           continue;
         }
-        console.log('')
       }
 
       // Optional: small delay to avoid rate limiting
