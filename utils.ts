@@ -32,3 +32,31 @@ export async function fetchGraphql<V, R>(
     throw err;
   }
 }
+
+export function normalizeUPC(code: string | number): string | null {
+  // Convert to string
+  let digits = String(code);
+
+  // Remove any non-digit characters
+  digits = digits.replace(/\D/g, "");
+
+   if (digits.length === 14) {
+    // GTIN-14 → extract UPC-A (last 12 digits)
+    return digits.slice(-12);
+  }
+
+  if (digits.length === 13) {
+    // EAN-13 → often safe to take last 12 (US products)
+    return digits.slice(-12);
+  }
+
+  if (digits.length === 12) {
+    return digits;
+  }
+
+  if (digits.length === 11) {
+    return digits.padStart(12, "0");
+  }
+
+  return null;
+}

@@ -8,6 +8,7 @@
     "underscore.string": "^3.3.6"
   },
   "devDependencies": {
+    "@types/node": "^25.5.0",
     "@types/pdf-parse": "^1.1.5",
     "@types/underscore.string": "^0.0.41",
     "ts-node": "^10.9.2",
