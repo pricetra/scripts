@@ -52,11 +52,11 @@ async function fetchAllSmartLabelProducts(page: number, perPage: number = 500) {
       }
 
       for (const smartLabelItem of products) {
-        await new Promise((r) => setTimeout(r, 500));
+        await new Promise((r) => setTimeout(r, 250));
 
         const upc = normalizeUPC(smartLabelItem.upc) ?? smartLabelItem.upc;
         console.log();
-        console.log(`Trying ${upc} (page ${curPage}):`);
+        console.log(`Trying ${upc} (page ${curPage-1}):`);
         console.info(JSON.stringify(smartLabelItem))
         const { data, errors } = await fetchGraphql<
           BarcodeScanQueryVariables,
@@ -97,7 +97,7 @@ async function fetchAllSmartLabelProducts(page: number, perPage: number = 500) {
       // Optional: small delay to avoid rate limiting
       await new Promise((r) => setTimeout(r, 100));
     } catch (err) {
-      console.error(`Error on page ${curPage}:`, err);
+      console.error(`Error on page ${curPage-1}:`, err);
       break;
     }
   }
